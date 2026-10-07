@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0973-k-closest-points-to-origin) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
@@ -63,4 +65,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0621-task-scheduler) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
