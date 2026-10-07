@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/1046-last-stone-weight) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/1046-last-stone-weight) |
 ## Math
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
@@ -46,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0621-task-scheduler) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -54,4 +58,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0621-task-scheduler) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
