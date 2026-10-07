@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0023-merge-k-sorted-lists) |
+| [0295-find-median-from-data-stream](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0973-k-closest-points-to-origin) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0973-k-closest-points-to-origin) |
@@ -77,4 +79,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0023-merge-k-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0295-find-median-from-data-stream) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
