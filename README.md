@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0621-task-scheduler) |
+| [0739-daily-temperatures](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0739-daily-temperatures) |
 | [0973-k-closest-points-to-origin](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/1046-last-stone-weight) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -108,8 +109,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
