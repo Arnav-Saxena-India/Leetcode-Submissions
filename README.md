@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/1046-last-stone-weight) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0621-task-scheduler) |
 ## Bucket Sort
 |  |
@@ -100,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
