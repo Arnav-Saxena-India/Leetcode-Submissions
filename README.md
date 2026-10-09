@@ -97,10 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0295-find-median-from-data-stream) |
+| [0901-online-stock-span](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0295-find-median-from-data-stream) |
+| [0901-online-stock-span](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0901-online-stock-span) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -112,10 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
