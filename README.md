@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0621-task-scheduler) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Linked List
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0155-min-stack) |
+| [0402-remove-k-digits](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0739-daily-temperatures) |
@@ -118,8 +120,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0901-online-stock-span) |
+## String
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Arnav-Saxena-India/Leetcode-Submissions/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
